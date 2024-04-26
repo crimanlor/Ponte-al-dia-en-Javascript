@@ -36,5 +36,3 @@ function getPetExerciseInfo(pet, age) {
     }
 
 }
-
-getPetExerciseInfo("cat", 5)
