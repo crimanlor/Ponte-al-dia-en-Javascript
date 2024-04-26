@@ -28,7 +28,7 @@ Para cada tipo de mascota, la función retornará diferente información basada 
 
 ### Aves
 - Si la edad es menor al año, deberá retornar "Las aves jóvenes necesitan mucho espacio para volar"
-- - Si la edad es entre 1 y 7 años, deberá retornar "Las aves necesitan jugar diariamente y un lugar para volar"
+- Si la edad es entre 1 y 7 años, deberá retornar "Las aves necesitan jugar diariamente y un lugar para volar"
 Si la edad es mayor a 7 años, deberá retornar "Las aves mayores necesitan descansar más, pero siguen ocupando un lugar para volar"
 
 Tendrás inputs y outputs como los siguientes 👇
