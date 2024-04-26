@@ -1,6 +1,6 @@
 # Ejercicio 3 - Obtener info según el tipo de mascota y la edad - Platzi
 
-En este desafío tenemos devolver al usuario diferente información en función del tipo de mascotas y su edad.
+En este desafío tenemos devolver al usuario diferente información en función del tipo de mascota y su edad.
 
 ## Instrucciones
 
