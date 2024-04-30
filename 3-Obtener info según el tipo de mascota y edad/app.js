@@ -1,7 +1,12 @@
+var pet;
+var age;
 
 function getPetExerciseInfo(pet, age) {
+    pet = document.getElementById('pet-input').value
+    age = document.getElementById('age-input').value
+
     switch (pet) {
-        case "dog":
+        case "perro":
             if (age < 1) {
                 console.log("Los cachorros necesitan pequeñas y frecuentes sesiones de juego")
             } else if (age >= 1 && age <= 7) {
@@ -11,7 +16,7 @@ function getPetExerciseInfo(pet, age) {
             }
             break;
 
-        case "cat":
+        case "gato":
             if (age < 1) {
                 console.log("Los gatitos necesitan frecuentes sesiones de juego")
             } else if (age >= 1 && age <= 7) {
@@ -21,7 +26,7 @@ function getPetExerciseInfo(pet, age) {
             }
             break;
 
-        case "bird":
+        case "ave":
             if (age < 1) {
                 console.log("Las aves jóvenes necesitan mucho espacio para volar")
             } else if (age >= 1 && age <= 7) {
