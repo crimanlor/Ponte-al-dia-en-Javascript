@@ -1,4 +1,4 @@
-# Ejercicio 4 - Encontrar el gato más fomoso - Platzi
+# Ejercicio 4 - Encontrar el gato más famoso - Platzi
 
 En este desafío, debemos encontrar al gato más famoso en base a su número de seguidores.
 
